@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe5c037-448b-4036-b695-89a79f383087" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="228" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Application\Maven\repository" />
+        <option name="mavenHome" value="D:/Application/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21oXBBsthCeISz2KpEDaxaCK6g5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Server" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="actionEvent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="imagePanel" />
+      <recent name="client.imageProcess" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ItemImageMappingTest.getBufferedImageByByteTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImagePanelTest.addBufferedImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="imagePanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="imagePanel" />
+      <option name="MAIN_CLASS_NAME" value="imagePanel.ImagePanelTest" />
+      <option name="METHOD_NAME" value="addBufferedImageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemImageMappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.imageProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="client.imageProcess" />
+      <option name="MAIN_CLASS_NAME" value="client.imageProcess.ItemImageMappingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemImageMappingTest.getBufferedImageByByteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.imageProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="client.imageProcess" />
+      <option name="MAIN_CLASS_NAME" value="client.imageProcess.ItemImageMappingTest" />
+      <option name="METHOD_NAME" value="getBufferedImageByByteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyActionTest.serializeAndDeserializeTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actionEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="actionEvent" />
+      <option name="MAIN_CLASS_NAME" value="actionEvent.KeyActionTest" />
+      <option name="METHOD_NAME" value="serializeAndDeserializeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client-package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Client" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Server-package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Server" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.test" />
+      <item itemvalue="Maven.Client-package" />
+      <item itemvalue="Maven.Server-package" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.KeyActionTest.serializeAndDeserializeTest (1)" />
+      <item itemvalue="JUnit.ImagePanelTest.addBufferedImageTest" />
+      <item itemvalue="JUnit.ItemImageMappingTest" />
+      <item itemvalue="JUnit.ItemImageMappingTest.getBufferedImageByByteTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ItemImageMappingTest.getBufferedImageByByteTest" />
+        <item itemvalue="JUnit.ItemImageMappingTest" />
+        <item itemvalue="JUnit.ImagePanelTest.addBufferedImageTest" />
+        <item itemvalue="JUnit.KeyActionTest.serializeAndDeserializeTest (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe5c037-448b-4036-b695-89a79f383087" name="默认更改列表" comment="" />
+      <created>1638608275827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638608275827</updated>
+      <workItem from="1638608277121" duration="5206000" />
+      <workItem from="1638617077703" duration="8665000" />
+      <workItem from="1638708460691" duration="2039000" />
+      <workItem from="1640267181650" duration="7501000" />
+      <workItem from="1640675236194" duration="23004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640274406930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1640274406930" />
+    <state x="606" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640697226092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="606" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1640697226092" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1640274038206">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1640274038206" />
+    <state x="603" y="276" width="329" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1640703641575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="603" y="276" width="329" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1640703641575" />
+    <state x="361" y="76" key="#项目结构" timestamp="1638608341481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#项目结构/0.0.1536.834@0.0.1536.834" timestamp="1638608341481" />
+    <state x="528" y="113" key="FileChooserDialogImpl" timestamp="1640269393547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="528" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1640269393547" />
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1640704862023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1640704862023" />
+    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1640704862023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1640704862023" />
+    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1640704862023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1640704862023" />
+    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1640704862023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1640704862023" />
+    <state x="349" y="160" key="IDE.errors.dialog" timestamp="1638610583820">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1638610583820" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1638608469735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1638608469735" />
+    <state x="178" y="28" key="new project wizard" timestamp="1638608460310">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="28" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1638608460310" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Game$ImagePanelTest_test.ic" NAME="ImagePanelTest.test Coverage Results" MODIFIED="1638612306071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UIFrame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Game$GameModeChooseTest.ic" NAME="GameModeChooseTest Coverage Results" MODIFIED="1640269492620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UIFrame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Game$ImagePanelTest.ic" NAME="ImagePanelTest Coverage Results" MODIFIED="1640269437602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UIFrame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Game$ActionEventTest.ic" NAME="ActionEventTest Coverage Results" MODIFIED="1640271183396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>actionEvent.*</FILTER>
+    </SUITE>
+  </component>
+</project>
